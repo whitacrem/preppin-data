@@ -48,3 +48,8 @@ final = final[['Points Rank', 'Likelihood Rank', '7 letter word', '% Chance', 'T
 
 # Export to csv
 final.to_csv('Week_6_output.csv')
+
+
+
+
+
