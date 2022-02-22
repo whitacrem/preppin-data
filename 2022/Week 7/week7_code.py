@@ -47,6 +47,9 @@ final['Met Sentiment Goal'] = final['Sentiment'] >= final['Sentiment Score >= 0'
 final['Met Not Answered Rate'] = final['Not Answered Rate'] < final['Not Answered Percent < 5']
 
 # Format and output
-final = final[['id', 'Agent Name', 'Leader 1', 'Leader Name', 'Month Start Date_x', 'Location', 'Answered', 'Not Answered', 'Not Answered Rate', 'Met Not Answered Rate', 'Not Answered Percent < 5', 'Offered', 'Total Duration', 'Agent Avg Duration', 'Transfers', 'Sentiment', 'Sentiment Score >= 0', 'Met Sentiment Goal']]
+final = final[['id', 'Agent Name', 'Leader 1', 'Leader Name', 'Month Start Date_x', 'Location', 'Answered', 'Not Answered', 'Not Answered Rate', 'Met Not Answered Rate', 
+            'Not Answered Percent < 5', 'Offered', 'Total Duration', 'Agent Avg Duration', 'Transfers', 'Sentiment', 'Sentiment Score >= 0', 'Met Sentiment Goal']]
 final = final.rename(columns={'Month Start Date_x':'Month Start Date', 'Answered':'Calls Answered', 'Not Answered':'Calls Not Answered', 'Offered':'Calls Offered'})
 final.to_csv('week7_output.csv')
+
+
