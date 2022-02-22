@@ -12,3 +12,4 @@ Working through the weekly challenges from [Preppin' Data](https://preppindata.b
 | [Week 4](https://preppindata.blogspot.com/2022/01/2022-week-4-prep-school-travel-plans.html) | [My Solution](https://github.com/whitacrem/preppin-data/blob/main/2022/Week%204/week_4_code.py) |
 | [Week 5](https://preppindata.blogspot.com/2022/02/2022-week-5-prep-school-setting-grades.html) | [My Solution](https://github.com/whitacrem/preppin-data/blob/main/2022/Week%205/week_5_code.py) |
 | [Week 6](https://preppindata.blogspot.com/2022/02/2022-week-6-7-letter-scrabble-words.html) | [My Solution](https://github.com/whitacrem/preppin-data/blob/main/2022/Week%206/week6_code.py) |
+| [Week 7](https://preppindata.blogspot.com/2022/02/2022-week-7-call-center-agent-metrics.html) | [My Solution](https://github.com/whitacrem/preppin-data/blob/main/2022/Week%207/week7_code.py) |
